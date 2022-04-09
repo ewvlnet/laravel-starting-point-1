@@ -4,10 +4,10 @@
 
 [Creating A Basic Website With Laravel](https://ewvl.net/posts/creating-a-basic-website-with-laravel-part-1).
 
-The theme was used **[Constra](https://themewagon.com/themes/free-bootsrap-4-html-5-business-website-template-constra)**, made available by https://themewagon.com at the address
+The theme was used **[Constra](https://themewagon.com/themes/free-bootsrap-4-html-5-business-website-template-constra)**, a free theme, made available by https://themewagon.com at the address
 [https://themewagon.com/themes/free-bootsrap-4-html-5-business-website-template-constra](https://themewagon.com/themes/free-bootsrap-4-html-5-business-website-template-constra)
 
-### 🔧 Instalação
+### 🔧 Installation
 
 After cloning the repository, enter the directory where you installed it and run the commands below
 
